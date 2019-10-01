@@ -1,0 +1,7 @@
+C:\Users\s199041\source\repos\Points and Vectors\Points and Vectors\bin\Debug\Points and Vectors.exe.config
+C:\Users\s199041\source\repos\Points and Vectors\Points and Vectors\bin\Debug\Points and Vectors.exe
+C:\Users\s199041\source\repos\Points and Vectors\Points and Vectors\bin\Debug\Points and Vectors.pdb
+C:\Users\s199041\source\repos\Points and Vectors\Points and Vectors\obj\Debug\Points and Vectors.csprojAssemblyReference.cache
+C:\Users\s199041\source\repos\Points and Vectors\Points and Vectors\obj\Debug\Points and Vectors.csproj.CoreCompileInputs.cache
+C:\Users\s199041\source\repos\Points and Vectors\Points and Vectors\obj\Debug\Points and Vectors.exe
+C:\Users\s199041\source\repos\Points and Vectors\Points and Vectors\obj\Debug\Points and Vectors.pdb
